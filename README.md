@@ -1,3 +1,5 @@
+# Lien live : https://maintenance-assistance-frontend.vercel.app/
+
 # Module de Classification de Tickets — mAIntenance & Assistance
 
 ## Objectif
@@ -353,3 +355,5 @@ Objet JSON contenant le diagnostic, la solution, les sources utilisées, le nive
   "confiance": 0.89,
   "source_suffisante": true
 }
+
+
